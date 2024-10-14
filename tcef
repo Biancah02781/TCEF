@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psicologia Forense</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Psicologia Forense</h1>
+        </header>
+        <section class="content">
+            <h2>O que é psicologia forense?</h2>
+            <p>Psicologia forense é o elo entre psicologia e direito. É a área responsável por estudar o comportamento das pessoas que estão envolvidas dentro de ambientes ou circunstâncias reguladas juridicamente.</p>
+            <p>A área serve para garantir que todos os envolvidos em um julgamento, por exemplo, tenham seus direitos garantidos.</p>
+            <p>Por meio de ciências sistemáticas e um vasto repertório acadêmico catalogado pela profissão, o psicólogo forense atende quaisquer demandas judiciais, sem emitir juízo de valor sobre elas.</p>
+            <p>A atuação na área requer responsabilidade e honestidade, já que esse profissional atua como um agente analítico de processos jurídicos.</p>
+            
+            <h2>O que faz um psicólogo forense?</h2>
+            <p>O psicólogo forense atua como um agente analítico de processos jurídicos, estuda as atribuições, justamente, analisando a condição psicológica dos envolvidos para a identificação de um possível comportamento suspeito.</p>
+            <p>A psicologia forense responde de forma legal durante toda a condução do processo, em defesa da lei garantida para todos que estiverem presentes em uma sala regulada juridicamente. É quem protege a integridade de qualquer sessão desse cunho. Se é um agente analítico, sua função é analisar. Dentro desse espectro, algumas de suas atribuições são:</p>
+            <ul>
+                <li>Coletar e analisar informações.</li>
+                <!-- Adicione mais itens conforme necessário -->
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
